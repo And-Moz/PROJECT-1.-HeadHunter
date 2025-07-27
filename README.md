@@ -5,7 +5,7 @@
 
 ## Данные
 Основной датасет: [dst-3.0_16_1_hh_database.csv](https://drive.google.com/file/d/1DFKgyuqg8M28ziHC16uJmI_eF44SXe_R/view?usp=sharing)  
-Дополнительные данные: ExchangeRates.csv
+Дополнительные данные: [ExchangeRates.csv] (https://drive.google.com/file/d/1qBd_rAO1MYlAQD28IKFSzju4V_wBylsz/view?usp=sharing)
 
 ## Как использовать
 1. Скачайте датасеты по ссылкам выше
